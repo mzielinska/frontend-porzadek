@@ -1,0 +1,14 @@
+body{
+    background: red
+}
+#nawigacja {
+    background-color: blue;
+    height: 100px;
+    margin: 0;
+    text-align: center;
+}
+.nawigacja_item{
+    list-style: none;
+    display: inline;
+    font-size: 20px;
+}

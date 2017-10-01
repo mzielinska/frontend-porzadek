@@ -1,0 +1,26 @@
+/* selektor znacznika */
+
+p{
+    background-color: pink;
+}
+
+/* selektor ID */
+
+#drugiparagraf {
+    background-color: skyblue
+    
+}
+
+/*selektor klasy*/
+
+.akademia {
+    background-color: coral
+}
+
+#selektorpotomka > p {
+    background-color: springgreen
+}
+
+#drugipotomek {
+    background-color: yellow
+}
